@@ -24,7 +24,7 @@ The system uses advanced AI models and data processing techniques to evaluate cr
 * Text analysis
 * Machine learning predictions
 * External evidence sources
-https://github.com/Reethika8247/Fake-news-Detection-and-Classification.git  
+* https://github.com/Reethika8247/Fake-news-Detection-and-Classification.git  
 
 ---
 
